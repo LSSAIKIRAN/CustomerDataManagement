@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188150303529",
+    "project_id": "customerdata-22a8d",
+    "storage_bucket": "customerdata-22a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188150303529:android:868da6a866eddfbc778538",
+        "android_client_info": {
+          "package_name": "com.kiran.customerdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188150303529-jo2orooamfgs51vrc4sg7vo05t92v64t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4VAJITMSudxBpB6Oq1d7t23OfresmB6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188150303529-jo2orooamfgs51vrc4sg7vo05t92v64t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
